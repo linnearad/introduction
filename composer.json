@@ -1,5 +1,5 @@
 {
-	"name": "typo3/cms-introduction",
+	"name": "linnearad/cms-introduction",
 	"type": "typo3-cms-extension",
 	"description": "TYPO3 Introduction Package",
 	"homepage": "https://typo3.org",
@@ -8,7 +8,7 @@
 	"require": {
 		"typo3/cms-core": "^9.1",
 		"typo3/cms-impexp": "^9.1",
-		"bk2k/bootstrap-package": "^9.1"
+		"bk2k/bootstrap-package": "^9.1 || dev-master"
 	},
 	"replace": {
 		"introduction": "*"
